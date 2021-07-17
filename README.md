@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Kumar
-- 👀 I’m interested in machine learning and neural networks also in esports.
+- 👀 I’m interested in machine learning and neural networks also in Esports.
 - 🌱 I’m currently learning computer vision and NLP.
 - 💞️ I’m looking to collaborate on above mentioned things, also in new and innovative ideas that excite me. 
 - 📫 How to reach me @   -    dsnaveen001@gmail.com
