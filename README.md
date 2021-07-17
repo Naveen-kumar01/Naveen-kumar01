@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naveen Kumar
+- 👋 Hi, I’m Naveen Kumar, Data Science Enthusiast.
 - 👀 I’m interested in machine learning and neural networks also in Esports.
 - 🌱 I’m currently learning computer vision and NLP.
 - 💞️ I’m looking to collaborate on above mentioned things, also in new and innovative ideas that excite me. 
